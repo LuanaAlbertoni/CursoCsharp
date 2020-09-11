@@ -1,0 +1,6 @@
+C:\Users\Iara\source\repos\P12-CalculainvestimentoLongoprazo\P12-CalculainvestimentoLongoprazo\bin\Debug\P12-CalculainvestimentoLongoprazo.exe.config
+C:\Users\Iara\source\repos\P12-CalculainvestimentoLongoprazo\P12-CalculainvestimentoLongoprazo\bin\Debug\P12-CalculainvestimentoLongoprazo.exe
+C:\Users\Iara\source\repos\P12-CalculainvestimentoLongoprazo\P12-CalculainvestimentoLongoprazo\bin\Debug\P12-CalculainvestimentoLongoprazo.pdb
+C:\Users\Iara\source\repos\P12-CalculainvestimentoLongoprazo\P12-CalculainvestimentoLongoprazo\obj\Debug\P12-CalculainvestimentoLongoprazo.csproj.CoreCompileInputs.cache
+C:\Users\Iara\source\repos\P12-CalculainvestimentoLongoprazo\P12-CalculainvestimentoLongoprazo\obj\Debug\P12-CalculainvestimentoLongoprazo.exe
+C:\Users\Iara\source\repos\P12-CalculainvestimentoLongoprazo\P12-CalculainvestimentoLongoprazo\obj\Debug\P12-CalculainvestimentoLongoprazo.pdb

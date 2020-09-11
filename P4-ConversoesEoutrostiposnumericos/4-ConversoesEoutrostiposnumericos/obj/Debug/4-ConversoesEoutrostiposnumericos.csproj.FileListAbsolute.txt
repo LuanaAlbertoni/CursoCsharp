@@ -1,0 +1,7 @@
+C:\Users\Iara\source\repos\4-ConversoesEoutrostiposnumericos\4-ConversoesEoutrostiposnumericos\bin\Debug\4-ConversoesEoutrostiposnumericos.exe.config
+C:\Users\Iara\source\repos\4-ConversoesEoutrostiposnumericos\4-ConversoesEoutrostiposnumericos\bin\Debug\4-ConversoesEoutrostiposnumericos.exe
+C:\Users\Iara\source\repos\4-ConversoesEoutrostiposnumericos\4-ConversoesEoutrostiposnumericos\bin\Debug\4-ConversoesEoutrostiposnumericos.pdb
+C:\Users\Iara\source\repos\4-ConversoesEoutrostiposnumericos\4-ConversoesEoutrostiposnumericos\obj\Debug\4-ConversoesEoutrostiposnumericos.csprojAssemblyReference.cache
+C:\Users\Iara\source\repos\4-ConversoesEoutrostiposnumericos\4-ConversoesEoutrostiposnumericos\obj\Debug\4-ConversoesEoutrostiposnumericos.csproj.CoreCompileInputs.cache
+C:\Users\Iara\source\repos\4-ConversoesEoutrostiposnumericos\4-ConversoesEoutrostiposnumericos\obj\Debug\4-ConversoesEoutrostiposnumericos.exe
+C:\Users\Iara\source\repos\4-ConversoesEoutrostiposnumericos\4-ConversoesEoutrostiposnumericos\obj\Debug\4-ConversoesEoutrostiposnumericos.pdb

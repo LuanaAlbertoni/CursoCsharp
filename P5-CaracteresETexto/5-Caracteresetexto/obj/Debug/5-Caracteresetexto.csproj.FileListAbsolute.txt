@@ -1,0 +1,7 @@
+C:\Users\Iara\source\repos\5-Caracteresetexto\5-Caracteresetexto\bin\Debug\5-Caracteresetexto.exe.config
+C:\Users\Iara\source\repos\5-Caracteresetexto\5-Caracteresetexto\bin\Debug\5-Caracteresetexto.exe
+C:\Users\Iara\source\repos\5-Caracteresetexto\5-Caracteresetexto\bin\Debug\5-Caracteresetexto.pdb
+C:\Users\Iara\source\repos\5-Caracteresetexto\5-Caracteresetexto\obj\Debug\5-Caracteresetexto.csprojAssemblyReference.cache
+C:\Users\Iara\source\repos\5-Caracteresetexto\5-Caracteresetexto\obj\Debug\5-Caracteresetexto.csproj.CoreCompileInputs.cache
+C:\Users\Iara\source\repos\5-Caracteresetexto\5-Caracteresetexto\obj\Debug\5-Caracteresetexto.exe
+C:\Users\Iara\source\repos\5-Caracteresetexto\5-Caracteresetexto\obj\Debug\5-Caracteresetexto.pdb

@@ -1,0 +1,7 @@
+C:\Users\Iara\source\repos\3 - Criando variaveis.flutuante\3 - Criando variaveis.flutuante\bin\Debug\3 - Criando variaveis.flutuante.exe.config
+C:\Users\Iara\source\repos\3 - Criando variaveis.flutuante\3 - Criando variaveis.flutuante\bin\Debug\3 - Criando variaveis.flutuante.exe
+C:\Users\Iara\source\repos\3 - Criando variaveis.flutuante\3 - Criando variaveis.flutuante\bin\Debug\3 - Criando variaveis.flutuante.pdb
+C:\Users\Iara\source\repos\3 - Criando variaveis.flutuante\3 - Criando variaveis.flutuante\obj\Debug\3 - Criando variaveis.flutuante.csprojAssemblyReference.cache
+C:\Users\Iara\source\repos\3 - Criando variaveis.flutuante\3 - Criando variaveis.flutuante\obj\Debug\3 - Criando variaveis.flutuante.csproj.CoreCompileInputs.cache
+C:\Users\Iara\source\repos\3 - Criando variaveis.flutuante\3 - Criando variaveis.flutuante\obj\Debug\3 - Criando variaveis.flutuante.exe
+C:\Users\Iara\source\repos\3 - Criando variaveis.flutuante\3 - Criando variaveis.flutuante\obj\Debug\3 - Criando variaveis.flutuante.pdb

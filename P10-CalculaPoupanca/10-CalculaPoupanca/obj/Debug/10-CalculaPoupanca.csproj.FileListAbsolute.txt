@@ -1,0 +1,7 @@
+C:\Users\Iara\source\repos\10-CalculaPoupanca\10-CalculaPoupanca\bin\Debug\10-CalculaPoupanca.exe.config
+C:\Users\Iara\source\repos\10-CalculaPoupanca\10-CalculaPoupanca\bin\Debug\10-CalculaPoupanca.exe
+C:\Users\Iara\source\repos\10-CalculaPoupanca\10-CalculaPoupanca\bin\Debug\10-CalculaPoupanca.pdb
+C:\Users\Iara\source\repos\10-CalculaPoupanca\10-CalculaPoupanca\obj\Debug\10-CalculaPoupanca.csprojAssemblyReference.cache
+C:\Users\Iara\source\repos\10-CalculaPoupanca\10-CalculaPoupanca\obj\Debug\10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\Iara\source\repos\10-CalculaPoupanca\10-CalculaPoupanca\obj\Debug\10-CalculaPoupanca.exe
+C:\Users\Iara\source\repos\10-CalculaPoupanca\10-CalculaPoupanca\obj\Debug\10-CalculaPoupanca.pdb

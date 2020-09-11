@@ -1,0 +1,7 @@
+C:\Users\Iara\source\repos\TestaCondicional2\TestaCondicional2\bin\Debug\TestaCondicional2.exe.config
+C:\Users\Iara\source\repos\TestaCondicional2\TestaCondicional2\bin\Debug\TestaCondicional2.exe
+C:\Users\Iara\source\repos\TestaCondicional2\TestaCondicional2\bin\Debug\TestaCondicional2.pdb
+C:\Users\Iara\source\repos\TestaCondicional2\TestaCondicional2\obj\Debug\TestaCondicional2.csprojAssemblyReference.cache
+C:\Users\Iara\source\repos\TestaCondicional2\TestaCondicional2\obj\Debug\TestaCondicional2.csproj.CoreCompileInputs.cache
+C:\Users\Iara\source\repos\TestaCondicional2\TestaCondicional2\obj\Debug\TestaCondicional2.exe
+C:\Users\Iara\source\repos\TestaCondicional2\TestaCondicional2\obj\Debug\TestaCondicional2.pdb

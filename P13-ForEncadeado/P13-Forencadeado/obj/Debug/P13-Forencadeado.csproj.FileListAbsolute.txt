@@ -1,0 +1,7 @@
+C:\Users\Iara\source\repos\P13-Forencadeado\P13-Forencadeado\bin\Debug\P13-Forencadeado.exe.config
+C:\Users\Iara\source\repos\P13-Forencadeado\P13-Forencadeado\bin\Debug\P13-Forencadeado.exe
+C:\Users\Iara\source\repos\P13-Forencadeado\P13-Forencadeado\bin\Debug\P13-Forencadeado.pdb
+C:\Users\Iara\source\repos\P13-Forencadeado\P13-Forencadeado\obj\Debug\P13-Forencadeado.csprojAssemblyReference.cache
+C:\Users\Iara\source\repos\P13-Forencadeado\P13-Forencadeado\obj\Debug\P13-Forencadeado.csproj.CoreCompileInputs.cache
+C:\Users\Iara\source\repos\P13-Forencadeado\P13-Forencadeado\obj\Debug\P13-Forencadeado.exe
+C:\Users\Iara\source\repos\P13-Forencadeado\P13-Forencadeado\obj\Debug\P13-Forencadeado.pdb

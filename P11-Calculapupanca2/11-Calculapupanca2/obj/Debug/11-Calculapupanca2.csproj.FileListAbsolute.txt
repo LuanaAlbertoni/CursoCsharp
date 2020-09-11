@@ -1,0 +1,2 @@
+C:\Users\Iara\source\repos\11-Calculapupanca2\11-Calculapupanca2\obj\Debug\11-Calculapupanca2.csprojAssemblyReference.cache
+C:\Users\Iara\source\repos\11-Calculapupanca2\11-Calculapupanca2\obj\Debug\11-Calculapupanca2.csproj.CoreCompileInputs.cache
